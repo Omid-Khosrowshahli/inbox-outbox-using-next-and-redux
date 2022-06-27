@@ -1,0 +1,9 @@
+.send {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  align-items: center;
+  min-width: 40%;
+  gap: 40px;
+  justify-content: center;
+}

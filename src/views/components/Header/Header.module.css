@@ -1,0 +1,13 @@
+.header {
+  background-color: var(--primary-color);
+  height: 64px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header p {
+  font-size: 25px;
+  font-weight: 700;
+}

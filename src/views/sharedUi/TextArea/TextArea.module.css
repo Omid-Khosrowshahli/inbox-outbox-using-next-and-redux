@@ -1,0 +1,9 @@
+.textElement {
+  width: 400px;
+  min-height: 200px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  background-color: #555;
+  color: white;
+}
